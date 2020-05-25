@@ -10,3 +10,7 @@ All notable changes to the "star-wars-theme" extension will be documented in thi
 
 - Added icon
 - Updated README
+
+## Released Version 0.0.3
+- Added more shields.io badges.
+- Offical Release on Market Place.
