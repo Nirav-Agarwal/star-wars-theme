@@ -3,7 +3,7 @@
     "displayName": "Star Wars Theme",
     "description": "I sense a great disturbance in the code.",
     "publisher": "niravagarwal",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.45.0"
     },
