@@ -8,8 +8,8 @@ In a galaxy far, far away, lives a lot of programmers using the force to create 
 ![Issues](https://img.shields.io/github/issues/Nirav-Agarwal/star-wars-theme)
 
 ## Sample Images
-![Image_1](assets/sample_1.png)
-![Image_2](assets/sample_2.png)
+![Image_1](assets/Sample_1.png)
+![Image_2](assets/Sample_2.png)
 
 ## Installation Procedure
 - Download and Install the latest version of [Visual Studio Code](https://code.visualstudio.com/download)
