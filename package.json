@@ -1,0 +1,33 @@
+{
+    "name": "star-wars-theme",
+    "displayName": "Star Wars Theme",
+    "description": "I sense a great disturbance in the code.",
+    "publisher": "nirav-agarwal",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Star Wars Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Star Wars Theme-color-theme.json"
+            }
+        ]
+    },
+
+    "icon": "assets/logo.png",
+    "galleryBanner": {
+      "color": "#121111",
+      "theme": "dark"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nirav-Agarwal/star-wars-theme"
+      }
+}
