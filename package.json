@@ -3,7 +3,7 @@
     "displayName": "Star Wars Theme",
     "description": "I sense a great disturbance in the code.",
     "publisher": "niravagarwal",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.45.0"
     },
@@ -21,12 +21,11 @@
     },
     "icon": "assets/icon.png",
     "galleryBanner": {
-      "color": "#121111",
-      "theme": "dark"
+        "color": "#121111",
+        "theme": "dark"
     },
-
     "repository": {
         "type": "git",
         "url": "https://github.com/Nirav-Agarwal/star-wars-theme"
-      }
+    }
 }
