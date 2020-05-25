@@ -2,7 +2,7 @@
     "name": "star-wars-theme",
     "displayName": "Star Wars Theme",
     "description": "I sense a great disturbance in the code.",
-    "publisher": "nirav-agarwal",
+    "publisher": "niravagarwal",
     "version": "0.0.2",
     "engines": {
         "vscode": "^1.45.0"
