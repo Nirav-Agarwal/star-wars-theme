@@ -1,5 +1,5 @@
 # Star Wars Theme
-##I sense a great disturbance in the code.<br>
+## I sense a great disturbance in the code.<br>
 
 ![Author](https://img.shields.io/badge/author-nirav--agarwal-blue)
 ![License](https://img.shields.io/github/license/Nirav-Agarwal/star-wars-theme)
