@@ -3,7 +3,7 @@
     "displayName": "Star Wars Theme",
     "description": "I sense a great disturbance in the code.",
     "publisher": "nirav-agarwal",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.45.0"
     },
@@ -19,8 +19,7 @@
             }
         ]
     },
-
-    "icon": "assets/logo.png",
+    "icon": "assets/icon.png",
     "galleryBanner": {
       "color": "#121111",
       "theme": "dark"

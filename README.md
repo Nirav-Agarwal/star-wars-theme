@@ -1,13 +1,31 @@
-# README
-## This is the README for your extension "star-wars-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Star Wars Theme
+I sense a great disturbance in the code.<br>
+"One of the best code editor available in the market visual studio code is, yes." - Yoda
+In a galaxy far, far away, lives a lot of programmers using the force to create beautiful pieces of code. So, for all my fellow Jedi and Sith coders, I am presenting the STAR WARS THEME for Visual Studio Code. With a beautiful blend of all the lightsaber colours, it's time to bring balance in the code.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Author](https://img.shields.io/badge/author-nirav--agarwal-blue)
+![License](https://img.shields.io/github/license/Nirav-Agarwal/star-wars-theme)
+![Issues](https://img.shields.io/github/issues/Nirav-Agarwal/star-wars-theme)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Sample Images
+![Image_1](assets/sample_1.png)
+![Image_2](assets/sample_2.png)
 
-**Enjoy!**
+## Installation Procedure
+- Download and Install the latest version of [Visual Studio Code](https://code.visualstudio.com/download)
+- Launch Visual Studio Code
+- Bring up the Extensions View by clicking on the Extensions icon in the Activity Bar on the side of VS Code or by using the shorcut `CMD+Shift+X` on a mac or `CTRL+Shift+X` on Windows
+- Click on the search tab and search for `Star Wars Theme`
+- Click on the install button to install the Star Wars Theme
+- The theme should automatically apply. If not, then follow the following procedure.
+- Reload Visual Studio Code
+- Use the keyboard shortcut `CMD+Shift+P` on a mac or `CTRL+Shift+P` on Windows to open the command palette
+- search for `Preferences: Color Theme` and click enter
+- select `Star-Wars-Theme` from the drop down
+
+## Credit
+This image was used to get the colour palette for all the lightsabers.
+Credit to the owner of the photo.
+![Image_2](assets/base_image.png)
+
+### May the Force be with you, Always!
