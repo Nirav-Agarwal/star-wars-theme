@@ -5,6 +5,9 @@
 ![License](https://img.shields.io/github/license/Nirav-Agarwal/star-wars-theme)
 ![Issues](https://img.shields.io/github/issues/Nirav-Agarwal/star-wars-theme)
 <br>
+![Installs](https://img.shields.io/visual-studio-marketplace/i/niravagarwal.star-wars-theme)
+![Ratings](https://img.shields.io/visual-studio-marketplace/r/niravagarwal.star-wars-theme)
+![Version](https://img.shields.io/visual-studio-marketplace/v/niravagarwal.star-wars-theme)
 
 "*One of the best code editor available in the market visual studio code is, yes.*" - Yoda <br>
 In a galaxy far, far away, lives a lot of programmers using the force to create beautiful pieces of code. So, for all my fellow Jedi and Sith coders, I am presenting the STAR WARS THEME for Visual Studio Code. With a beautiful blend of all the lightsaber colours, it's time to bring balance in the code.
